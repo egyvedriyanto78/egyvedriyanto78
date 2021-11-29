@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-### 👯 My name is Egy Vedriyanto
-### 🌱 I’m currently learning C++, Python, HTML, Java, etc.
-### 🔭 I’m interesting in Artificial Intelligence and Game Developing.
-### 📫 How to reach me: Follow my instagram on @yge_vann78 or https://www.instagram.com/yge_vann78
+ 👯 My name is Egy Vedriyanto
+ 
+ 🌱 I’m currently learning C++, Python, HTML, Java, etc.
+ 
+ 🔭 I’m interesting in Artificial Intelligence and Game Developing.
+ 
+ 📫 How to reach me: Follow my instagram on @yge_vann78 or https://www.instagram.com/yge_vann78
 
 
 
