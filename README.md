@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 👯 My name is Egy Vedriyanto
+ # 👯 My name is Egy Vedriyanto
  
  🌱 I’m currently learning C++, Python, HTML, Java, etc.
  
