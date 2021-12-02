@@ -2,7 +2,7 @@
 
  ## 👯 My name is Egy Vedriyanto
  
- #### 🌱 I’m currently learning C++, Python, HTML, Java, etc.
+ #### 🌱 I’m currently learning C++, Python, HTML, CSS, JavaScript, Java, etc.
  
  #### 🔭 I’m interesting in Artificial Intelligence and Game Developing.
  
