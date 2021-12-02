@@ -4,7 +4,7 @@
  
  #### 🌱 I’m currently learning C++, Python, HTML, CSS, JavaScript, Java, etc.
  
- #### 🔭 I’m interesting in Artificial Intelligence and Game Developing.
+ #### 🔭 I’m interesting in Game Developing and Artificial Intelligence.
  
  #### 📫 How to reach me: Follow my instagram on @yge_vann78 or https://www.instagram.com/yge_vann78
 
