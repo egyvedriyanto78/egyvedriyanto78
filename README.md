@@ -1,4 +1,4 @@
-# Hello there 👋
+# Hi there 👋
 
  ## 👯 My name is Egy Vedriyanto
  
