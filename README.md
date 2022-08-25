@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hello ! 👋
+### :crown: My name is EGY VEDRIYANTO
+####
+#### :books: I am currently pursuing a bachelor's degree in Computer Science at the University of Lampung
+#### :key: I have a strong interest in Game Development and Artificial Intelligence
+#### :pencil2: Learning about Computer and Machine Learning Stuff
+#### :pushpin: Main language : Python.
+#### :notebook: I also learn C, C++, Java, Kotlin, MySQL and Web Programming.
+####   
+#### :iphone: Follow my instagram for more information https://www.instagram.com/yge_vann78/
 
-<!--
-**egyvedriyanto78/egyvedriyanto78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egyvedriyanto78&theme=tokyonight)
