@@ -6,7 +6,7 @@
 #### :pencil2: Learning about Computer and Machine Learning Stuff
 #### :pushpin: Main language : Python.
 #### :notebook: I also learn C, C++, Java, Kotlin, MySQL and Web Programming.
-####   xzcK
+#### 
 #### :iphone: Follow my instagram for more information https://www.instagram.com/yge_vann78/
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egyvedriyanto78&theme=tokyonight)
