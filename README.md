@@ -2,7 +2,7 @@
 ### :crown: My name is EGY VEDRIYANTO
 ####
 #### :books: I am currently pursuing a bachelor's degree in Computer Science at the University of Lampung
-#### :key: I have a strong interest in Game Development and Artificial Intelligence
+#### :key: I have a strong interest in ML - AI - DS
 #### :pencil2: Learning about Computer and Machine Learning Stuff
 #### :pushpin: Main language : Python.
 #### :notebook: I also learn C, C++, Java, Kotlin, MySQL and Web Programming.
