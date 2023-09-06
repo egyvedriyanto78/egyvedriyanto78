@@ -5,7 +5,7 @@
 #### :key: I have a strong interest in ML - AI - DS
 #### :pencil2: Learning about Computer and Machine Learning Stuff
 #### :pushpin: Main language : Python.
-#### :notebook: I also learn C, C++, Java, Kotlin, MySQL and Web Programming.
+#### :notebook: I also learn other languages.
 #### 
 #### :iphone: Follow my instagram for more information https://www.instagram.com/yge_vann78/
 
